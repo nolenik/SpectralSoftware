@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Оля
+Build-Jdk: 11.0.2
+Implementation-Title: shortener
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.aily
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/shortener
+Created-By: Maven Integration for Eclipse
+
